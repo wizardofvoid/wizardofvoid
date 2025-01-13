@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any project that can help me acheive my goal
 - 📫 How to reach me Mail me @ sarafa736@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Any technology advanced enough can seem like a wizard trick...
+- ⚡ Fun fact: Any technology advanced enough can seem like a wizard's magic trick.....
 
 <!---
 wizardofvoid/wizardofvoid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
