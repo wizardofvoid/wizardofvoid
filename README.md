@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wizard
+- 👋 Hi, I’m @Ayush
 - 👀 I’m interested in making my life easier
 - 🌱 I’m currently learning programming to make my life easier
 - 💞️ I’m looking to collaborate on any project that can help me acheive my goal
